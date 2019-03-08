@@ -10,12 +10,12 @@
 ## 19 큐와 스택, 데크
     BRACKETS2 (하)
     
-    ITES (중)
+    ITES (중) - 파이썬 X
     
 ## 20 문자열
     PALINDROMIZE (하)
 
-    NAMING (하)
+    NAMING (하) - 파이썬 X
     JAEHASAFE (중)
     HABIT (중)
     
