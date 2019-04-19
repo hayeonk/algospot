@@ -74,6 +74,9 @@
     POTION (중)
     
 # 알고리즘 문제 해결 전략 2권
+## 16 비트마스크
+	GRADUATION (중)
+
 ## 17 부분 합
     CHRISTMAS (중)
     
