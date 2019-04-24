@@ -106,6 +106,12 @@
 ## 23 우선순위 큐와 힙
     RUNNINGMEDIAN (하)
 
+## 24 구간 트리
+	MORDOR (중)
+	MEASURETIME (중)
+	
+	FAMILYTREE (상)
+	
 ## 25 상호 배타적 집합
 
     EDITORWARS (중)
