@@ -56,7 +56,7 @@ for _ in xrange (input()):
 	circuit = []
 	getEulerTrailOrCircuit()
 	if len(circuit) != n + 1:
-		print circuit
+		print "IMPOSSIBLE"
 		continue
 		
 	circuit.reverse()
