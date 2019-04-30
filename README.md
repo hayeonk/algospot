@@ -85,8 +85,7 @@
     
 ## 19 큐와 스택, 데크
     BRACKETS2 (하)
-    
-    ITES (중) - 파이썬 X
+    ITES (중) (TLE)
     
 ## 20 문자열
     PALINDROMIZE (하)
@@ -138,11 +137,14 @@
     
 ## 30 최단 경로 알고리즘
     ROUTING (하)
-    
     FIRETRUCKS (중)
+	TIMETRIP (중)
+    DRUNKEN (중) (TLE)
+    
     NTHLON (상)
-    TIMETRIP (중)
-    DRUNKEN (중)
     PROMISES (중)
     
 ## 31 최소 스패닝 트리
+	LAN (하)
+	
+	TPATH (상)
